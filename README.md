@@ -29,3 +29,4 @@ Start the Server:
 Run python manage.py runserver and access the application at http://127.0.0.1:8000/.
 Data Analysis:
 Open ARIMA.ipynb using Jupyter Notebook to explore the data analysis.
+Open LSTM.ipynb using Jupyter Notebook to explore the data analysis.
